@@ -11,3 +11,7 @@ lecture 9:
 lecture 10:
   逆cascade,树递归
   lambda函数添加if else
+lecture 11:
+  熟悉字符串和递归技巧
+cats:
+  构建无效字符删除表，了解string库，递归技巧
